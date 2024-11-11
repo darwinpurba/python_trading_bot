@@ -1,0 +1,9 @@
+{
+	"username": "5030720253",
+	"password": "IjBj@tL6",
+	"server": "MetaQuotes-Demo",	
+	"mt5Pathway": "D:\\DDATA\\darwin\\sigumonrong\\MT5tmp\\terminal64.exe",
+	"symbols": ["XAUUSD"],
+	"timeframe": "M1",
+	"pip_size": "0.01"
+}
